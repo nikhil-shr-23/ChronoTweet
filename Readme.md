@@ -1,4 +1,4 @@
-# ChronoTweet 
+# ChronoTweet( Repo is private currently)
 
 **ChronoTweet** is an AI-powered X (Twitter) automation agent that helps you schedule, generate, and publish tweets and threads effortlessly. With ChronoTweet, you can plan daily content, let AI draft it in your voice, and receive daily reports of published posts and engagement metrics.
 
@@ -15,13 +15,7 @@
 
 ---
 
-## Tech Stack
 
-- **Backend**: Node.js, Express
-- **Database**: MongoDB or PostgreSQL
-- **AI**: OpenAI GPT
-- **Scheduler**: node-cron
-- **Platform Integration**: X (Twitter) API via OAuth 2.0
 
 ---
 
